@@ -1,0 +1,22 @@
+{
+  "dataset_subject": "CH2NH (methanimine) classical trajectory ensemble supplementary summary data",
+  "energy_range_eV": [
+    3,
+    9
+  ],
+  "energy_step_eV": 1,
+  "trajectories_per_energy": 200,
+  "simulation_window_fs": 1000,
+  "source": "Supplementary Material_Data_Resubmission 7(2).docx",
+  "tables_transcribed": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+  ],
+  "raw_trajectory_level_data_included": false
+}

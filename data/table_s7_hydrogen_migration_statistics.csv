@@ -1,0 +1,8 @@
+Deposited internal energy (eV),Number of trajectories with persistent H migration,Fraction with persistent H migration,Mean H-migration events per trajectory,Number of rearrangement-assisted dissociative trajectories,Median first-migration time (fs),Median migration-to-dissociation interval (fs),Median dissociation time (fs)
+3,191,0.955,2.560,42,99.0,469.5,608.0
+4,186,0.930,2.300,82,53.5,365.0,456.5
+5,182,0.910,2.105,110,70.0,350.0,447.0
+6,166,0.830,1.805,128,78.5,287.5,413.0
+7,157,0.785,1.630,127,72.0,264.0,405.0
+8,147,0.735,1.315,138,69.5,182.0,283.0
+9,125,0.625,1.040,120,77.0,168.0,315.5

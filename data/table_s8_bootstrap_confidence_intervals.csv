@@ -1,0 +1,8 @@
+deposited_internal_energy_eV,fraction_with_persistent_H_migration,fraction_CI95_lower,fraction_CI95_upper,mean_H_migration_events_per_trajectory,mean_events_CI95_lower,mean_events_CI95_upper
+3,0.955,0.925,0.980,2.560,2.450,2.665
+4,0.930,0.890,0.960,2.300,2.170,2.420
+5,0.910,0.870,0.945,2.105,1.965,2.235
+6,0.830,0.775,0.880,1.805,1.655,1.950
+7,0.785,0.725,0.840,1.630,1.475,1.780
+8,0.735,0.675,0.795,1.315,1.175,1.455
+9,0.625,0.560,0.690,1.040,0.905,1.175
