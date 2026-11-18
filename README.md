@@ -108,6 +108,17 @@ for comparison. The source document does not provide the raw trajectory-level
 data needed to independently recalculate all ensemble statistics or reproduce
 the Kaplan–Meier and bootstrap analyses from individual trajectories.
 
-Before making the repository public, add the final article title, author list,
-publication/DOI, preferred citation, and an explicit reuse license. These
-details were not inferred or invented from the supplementary tables.
+The final article title, author list, publication/DOI, and preferred citation
+should be added when available; these were not inferred from the tables.
+
+## Dataset license
+
+The dataset tables under `data/` and associated dataset metadata and
+documentation are licensed under the [Creative Commons Attribution 4.0
+International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+See [LICENSE](LICENSE) for the full legal text. Reuse requires appropriate
+attribution, a link to the license, and an indication of changes.
+
+This dataset license notice does not itself establish rights to redistribute
+the original supplementary DOCX under `source/` or specify a separate software
+license for the plotting script under `scripts/`.

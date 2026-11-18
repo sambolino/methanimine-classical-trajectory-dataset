@@ -18,5 +18,7 @@
     "S7",
     "S8"
   ],
-  "raw_trajectory_level_data_included": false
+  "raw_trajectory_level_data_included": false,
+  "dataset_license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/legalcode"
 }
